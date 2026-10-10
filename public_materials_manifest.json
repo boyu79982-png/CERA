@@ -1,0 +1,191 @@
+{
+  "scope": "Limited public source and protocol package; no new experiment",
+  "self_digest_excluded": true,
+  "files": [
+    {
+      "path": "src/head_validity.py",
+      "sha256": "87e476769ba0c29aab946c65aea835d03c9edcd3d15156024778034c9e2a020b",
+      "size_bytes": 1611,
+      "type": "frozen file copy",
+      "source_identity_authority": "final_archive/sha256_master_manifest.csv: /root/autodl-tmp/paper2_derecg/outputs/final_archive/code_snapshot/src/head_validity.py"
+    },
+    {
+      "path": "scripts/stage4_build_features.py",
+      "sha256": "47bf7edd142deee5b0e529d4475bc59207a445d29096424a6db9637e1ad670a5",
+      "size_bytes": 12465,
+      "type": "frozen file copy",
+      "source_identity_authority": "final_archive/sha256_master_manifest.csv: /root/autodl-tmp/paper2_derecg/outputs/final_archive/code_snapshot/scripts/stage4_build_features.py"
+    },
+    {
+      "path": "scripts/stage4_diagnostics.py",
+      "sha256": "1be3b1e83c16ec45d71aeaabf0ebcb7bc762128d1a66b9bc429517a8fde3ebe9",
+      "size_bytes": 12995,
+      "type": "frozen file copy",
+      "source_identity_authority": "final_archive/sha256_master_manifest.csv: /root/autodl-tmp/paper2_derecg/outputs/final_archive/code_snapshot/scripts/stage4_diagnostics.py"
+    },
+    {
+      "path": "src/stage5b10_core.py",
+      "sha256": "121da427702ec3d1722bcae7a3b6e634c9f70409915ed5f1ab68b0b683dbab5b",
+      "size_bytes": 8302,
+      "type": "frozen file copy",
+      "source_identity_authority": "final_archive/sha256_master_manifest.csv: /root/autodl-tmp/paper2_derecg/outputs/final_archive/code_snapshot/src/stage5b10_core.py"
+    },
+    {
+      "path": "src/stage5b10_pipeline.py",
+      "sha256": "de1beb1805b7c8a481b070f65e02954ca6ce4b595076518069ca66a804b81f0c",
+      "size_bytes": 12798,
+      "type": "frozen file copy",
+      "source_identity_authority": "final_archive/sha256_master_manifest.csv: /root/autodl-tmp/paper2_derecg/outputs/final_archive/code_snapshot/src/stage5b10_pipeline.py"
+    },
+    {
+      "path": "scripts/run_stage5b10_nogpu.py",
+      "sha256": "37c94c7364b8f94de7594a530335d45d56e733877ab6bfce9de08977c1c8181b",
+      "size_bytes": 24185,
+      "type": "frozen file copy",
+      "source_identity_authority": "final_archive/sha256_master_manifest.csv: /root/autodl-tmp/paper2_derecg/outputs/final_archive/code_snapshot/scripts/run_stage5b10_nogpu.py"
+    },
+    {
+      "path": "scripts/run_stage7_nogpu_ablations.py",
+      "sha256": "dac0ceda53d2297d923fb66bed438d07faf14278515f7561dc6a19b292be2de3",
+      "size_bytes": 31218,
+      "type": "frozen file copy",
+      "source_identity_authority": "formal_test_02/run_formal_01/artifact_manifest.json/source_sha256/scripts/run_stage7_nogpu_ablations.py"
+    },
+    {
+      "path": "scripts/audit_feature_leakage.py",
+      "sha256": "42e400465bb7e07292784df0b6b7f38d3347c739b5d00009e06fda30c9630c64",
+      "size_bytes": 5749,
+      "type": "frozen file copy",
+      "source_identity_authority": "final_archive/sha256_master_manifest.csv: /root/autodl-tmp/paper2_derecg/outputs/final_archive/code_snapshot/scripts/audit_feature_leakage.py"
+    },
+    {
+      "path": "src/ccda.py",
+      "sha256": "f8dc56386c775bd57544e38e245144b97167e16d2fc4862c61bbe53f001224be",
+      "size_bytes": 1696,
+      "type": "frozen file copy",
+      "source_identity_authority": "final_archive/sha256_master_manifest.csv: /root/autodl-tmp/paper2_derecg/outputs/final_archive/code_snapshot/src/ccda.py"
+    },
+    {
+      "path": "src/stage2_protocol.py",
+      "sha256": "39c5495d26aa28b8a177ce62ce1b86ce8e950c8e6a26ec72d22d9c025e1f07f4",
+      "size_bytes": 8971,
+      "type": "frozen file copy",
+      "source_identity_authority": "final_archive/sha256_master_manifest.csv: /root/autodl-tmp/paper2_derecg/outputs/final_archive/code_snapshot/src/stage2_protocol.py"
+    },
+    {
+      "path": "src/stage4_evidence.py",
+      "sha256": "7f39e4a50ef26ffd0f3f376f9f41ce92189ddc0a23354f9c56acc43df9b5442c",
+      "size_bytes": 7144,
+      "type": "frozen file copy",
+      "source_identity_authority": "final_archive/sha256_master_manifest.csv: /root/autodl-tmp/paper2_derecg/outputs/final_archive/code_snapshot/src/stage4_evidence.py"
+    },
+    {
+      "path": "src/stage5a10_core.py",
+      "sha256": "f9738295a8ebbfaf9d6d72947ea12fbe7df397502f37b8eec98b7ce6db2a5ba3",
+      "size_bytes": 6410,
+      "type": "frozen file copy",
+      "source_identity_authority": "final_archive/sha256_master_manifest.csv: /root/autodl-tmp/paper2_derecg/outputs/final_archive/code_snapshot/src/stage5a10_core.py"
+    },
+    {
+      "path": "src/stage1b_fallback.py",
+      "sha256": "c2ecce929d1a61cf6f125d94247ee4256a0c73d7f35220c81269f7d5f3aa98be",
+      "size_bytes": 3798,
+      "type": "frozen file copy",
+      "source_identity_authority": "final_archive/sha256_master_manifest.csv: /root/autodl-tmp/paper2_derecg/outputs/final_archive/code_snapshot/src/stage1b_fallback.py"
+    },
+    {
+      "path": "src/visual_nouns.txt",
+      "sha256": "a1634ad14fcbe3024e900d6172357d43065fb96f71234adb2be5142a064d7f7a",
+      "size_bytes": 2377,
+      "type": "frozen file copy",
+      "source_identity_authority": "final_archive/sha256_master_manifest.csv: /root/autodl-tmp/paper2_derecg/outputs/final_archive/code_snapshot/src/visual_nouns.txt"
+    },
+    {
+      "path": "docs/03_head_validity_spec.md",
+      "sha256": "c23d488ce87aa2617ff069e37cd1238c20def9415b640d749c4732dfd7615be8",
+      "size_bytes": 2089,
+      "type": "frozen file copy",
+      "source_identity_authority": "final_archive/sha256_master_manifest.csv: /root/autodl-tmp/paper2_derecg/docs/03_head_validity_spec.md"
+    },
+    {
+      "path": "experiments/run_score_only_9d.py",
+      "sha256": "464c78a5dc3b039c7f5a5a71ff676defe2dd8225aa0158ef85d233fb1ea5a6a9",
+      "size_bytes": 25714,
+      "type": "frozen file copy",
+      "source_identity_authority": "artifact_manifest.json/run_score_only_9d.py"
+    },
+    {
+      "path": "experiments/run_formal_9d.py",
+      "sha256": "e412faa60e807bd4dc34c0e235f9ae6cbde0b5c3ffb5ce5a27fe95e68440256e",
+      "size_bytes": 28829,
+      "type": "frozen file copy",
+      "source_identity_authority": "artifact_manifest.json/run_formal_9d.py"
+    },
+    {
+      "path": "protocol/feature_order_53.json",
+      "sha256": "7058c251655c7292133e35580eeb27c13be46691ed6a999889dd3a15128cf578",
+      "size_bytes": 1136,
+      "type": "frozen file copy",
+      "source_identity_authority": "frozen experiment artifact manifest/outputs/stage5b10/feature_order.json"
+    },
+    {
+      "path": "protocol/feature_schema_53.json",
+      "sha256": "fe746c83b7be39541c8b10f75f2201e52f899dc1fa0673f5cd34abfb47427efe",
+      "size_bytes": 3666,
+      "type": "frozen file copy",
+      "source_identity_authority": "frozen experiment artifact manifest/outputs/stage5b10/feature_schema.json"
+    },
+    {
+      "path": "protocol/internal_image_split.json",
+      "sha256": "5b6f12182c4059a39e4c68825581c5235194b6a073d066ee930f4b18d5a9df1c",
+      "size_bytes": 12227,
+      "type": "frozen file copy",
+      "source_identity_authority": "frozen experiment artifact manifest/outputs/stage5b10/internal_image_split.json"
+    },
+    {
+      "path": "protocol/training_recipe.json",
+      "sha256": "70df1256c749720689af36d26dad9420bc6db1e35916231634a0062784127010",
+      "size_bytes": 725,
+      "type": "frozen file copy",
+      "source_identity_authority": "frozen experiment artifact manifest/outputs/stage5d_final/training_recipe.json"
+    },
+    {
+      "path": "protocol/final_lr_26_feature_columns.json",
+      "sha256": "9fcc26d249b05c09e0822ed047253dcec7400790c17bc7758214ea4ec323a2e4",
+      "size_bytes": 906,
+      "type": "frozen file copy",
+      "source_identity_authority": "frozen experiment artifact manifest/outputs/stage6_test/final_lr_26_feature_columns.json"
+    },
+    {
+      "path": "protocol/decision_config_final.json",
+      "sha256": "51bb50905d471221be76ee2caabc7229eb1ab6eb39ed7120fde2b6935fe2a6d4",
+      "size_bytes": 261,
+      "type": "frozen file copy",
+      "source_identity_authority": "frozen experiment artifact manifest/outputs/stage5d_final/decision_config.json"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "2c5a1d5faa6546873eb1cf42855ec45a04bbe85f51161b33320757bc80c036a9",
+      "size_bytes": 80,
+      "type": "release documentation or selected public protocol view"
+    },
+    {
+      "path": "README.md",
+      "sha256": "adcc26156611e9e744f1ac1833265c35112f32459ac7a53eaabe90dbec6cae9c",
+      "size_bytes": 3362,
+      "type": "release documentation or selected public protocol view"
+    },
+    {
+      "path": "requirements-cpu-9d.txt",
+      "sha256": "5b73d6cc1b63a433e532c1071a5d504b666c617d528280d4250d326bba05d7e8",
+      "size_bytes": 97,
+      "type": "release documentation or selected public protocol view"
+    },
+    {
+      "path": "protocol/existing_score_lr_9d_config.json",
+      "sha256": "dab745716d4dd02e16287426b088ecafdf057eda3162c46c38389579a920735b",
+      "size_bytes": 1717,
+      "type": "release documentation or selected public protocol view"
+    }
+  ]
+}

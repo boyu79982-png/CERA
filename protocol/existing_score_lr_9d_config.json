@@ -1,0 +1,76 @@
+{
+  "feature_names": [
+    "head_valid",
+    "S_st",
+    "anchor_detector_conf",
+    "old_margin",
+    "box_pair_iou",
+    "structured_detector_conf",
+    "expression_length",
+    "num_attributes",
+    "num_relations"
+  ],
+  "indices_in_53": [
+    3,
+    9,
+    6,
+    10,
+    11,
+    7,
+    0,
+    1,
+    2
+  ],
+  "class_mapping": {
+    "BENEFIT": 0,
+    "HARM": 2,
+    "NEUTRAL": 1
+  },
+  "classes_": [
+    0,
+    1,
+    2
+  ],
+  "input_dim": 9,
+  "parameter_count": 30,
+  "policy": {
+    "keep_if": "U <= 0.20",
+    "lambda": 1.5,
+    "new_policy_search_allowed": false,
+    "operator": ">",
+    "replace_if": "U > 0.20",
+    "tau": 0.2,
+    "utility": "P_B - 1.5 * P_H"
+  },
+  "estimator_params": {
+    "C": 1.0,
+    "class_weight": "balanced",
+    "dual": false,
+    "fit_intercept": true,
+    "intercept_scaling": 1,
+    "l1_ratio": null,
+    "max_iter": 1000,
+    "multi_class": "deprecated",
+    "n_jobs": null,
+    "penalty": "l2",
+    "random_state": 3407,
+    "solver": "lbfgs",
+    "tol": 0.0001,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "training_images": 1699,
+  "training_expressions": 12146,
+  "model_sha256": "ecaebdbe4b5c2826cf51d829f519d31e0def26cafa8739f0f6e42bc59bae0d29",
+  "environment": {
+    "python": "3.13.5",
+    "sklearn": "1.7.2",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scipy": "1.16.1",
+    "joblib": "1.5.2",
+    "pyarrow": "26.0.0"
+  },
+  "origin": "Selected fields from frozen formal_pretest_freeze_manifest.json; a public configuration view, not the original historical manifest",
+  "original_freeze_manifest_sha256": "d41f1a92de99331c0967ea01fc7edfde6a0644508310fa630a73e80943cef7ba"
+}

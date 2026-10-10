@@ -1,0 +1,1 @@
+{"class_mapping":{"BENEFIT":0,"HARM":2,"NEUTRAL":1},"lambda":1.5,"primary_arbitrator":"CERA-LR","replace_rule":"U > 0.20","source_stage5b_decision_sha256":"ba3984e2b24b70c9446de886ea914dc0bb3d2afe737a901a031d50e3596a563e","tau":0.2,"utility":"P_B - 1.5 * P_H"}

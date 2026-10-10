@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+outputs/
+models/
+data/
+*.pkl
+*.parquet
+*.docx
+*.pdf
